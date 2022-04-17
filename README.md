@@ -1,6 +1,6 @@
 # What's this?
 
-React17 + Typescript + CSS Module(SCSS) template
+React18 + Typescript + CSS Module(SCSS) template
 
 
 
