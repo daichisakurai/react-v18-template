@@ -1,5 +1,5 @@
 {
-  "name": "reactv18-template",
+  "name": "react-v18-template",
   "version": "1.0.0",
   "description": "",
   "private": true,
@@ -13,7 +13,7 @@
   },
   "keywords": [],
   "author": "Daichi Sakurai",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
